@@ -1,5 +1,5 @@
 # PoliceAnimations
-PoliceAnimations is a UK-based resource for FiveM by Albo1125 that provides police animation functions.
+PoliceAnimations is a UK-based resource for FiveM by Albo1125 that provides police animation functions. It is available at [https://github.com/Albo1125/PoliceAnimations](https://github.com/Albo1125/PoliceAnimations)
 
 ## Installation & Usage
 1. Download the latest release.
